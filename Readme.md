@@ -1,1 +1,1 @@
-This is the readme file for trucker project
+This is the readme file for trucker project for the Trucker project.
